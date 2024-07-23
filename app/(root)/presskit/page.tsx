@@ -14,7 +14,7 @@ const Presskit = () => {
           className2=""
             src={"/photo-icon.svg"}
             alt=""
-            className="mx-auto pt-6 w-auto h-auto lg:w-[150px] lg:h-[150px]"
+            className="mx-auto pt-6 w-[50px] h-auto lg:w-[150px] lg:h-[150px]"
             width={1000}
             height={1000}
           />
@@ -31,7 +31,7 @@ const Presskit = () => {
           className2=""
             src={"/logo-icon.svg"}
             alt=""
-            className="mx-auto pt-6 w-auto h-auto lg:w-[150px] lg:h-[150px]"
+            className="mx-auto pt-6 w-[50px] h-auto lg:w-[150px] lg:h-[150px]"
             width={1000}
             height={1000}
           />
@@ -48,7 +48,7 @@ const Presskit = () => {
           className2=""
             src={"/tech-icon.svg"}
             alt=""
-            className="mx-auto pt-6 w-auto h-auto lg:w-[150px] lg:h-[150px]"
+            className="mx-auto pt-6 w-[50px] h-auto lg:w-[150px] lg:h-[150px]"
             width={1000}
             height={1000}
           />
