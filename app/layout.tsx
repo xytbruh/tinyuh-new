@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "TINYUH",
-  description: "Tinyuh",
+  description: "tinyUH also plays economic activities as part of the show. tinyUH reconstructs the whole atmosphere of taste, visual, aroma, sound, up to the trading process, based on the long history of colonialism in Indonesia that intersects through spices, coffee, tea and clay.",
 };
 
 export default function RootLayout({
